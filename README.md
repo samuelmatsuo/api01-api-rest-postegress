@@ -1,8 +1,8 @@
 # APS 01 - API REST com Postgres
 
 Integrantes: 
-- Felipe Carli
 - Mateus Stangherlin
+- Felipe Carli
 - Samuel Matsuo
 
 
